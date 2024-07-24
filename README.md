@@ -4,6 +4,8 @@ My name is Jose Luis Calderon Sanchez. I'm an Electrical Engineer with a master'
 
 I'm working in telecommunications wireless networks for more than 28 years. Now, I'm looking for others challenge/job in TI world, like data analyst, cloud professional, process and/or data miner, network technician/engineer and so on.
 
+I'm interested in Wireless communications, IoT Networks, Private Networks, 4G, 5G and all their services in everyone (including TO, TI, AI and/or ML).
+
 Contact me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jlcs1965/)
