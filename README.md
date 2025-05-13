@@ -1,8 +1,8 @@
-#Hello-World !!!
+#Greetings !!!
 
-My name is Jose Luis Calderon Sanchez. I'm an Electrical Engineer with a master's degree in computing and automation Engineering (communication protocol verification  tool developer).
+My name is Jose Luis Calderon Sanchez. I'm an Electrical Engineer with a master's degree in computing and automation Engineering (communication protocol verification tool developer).
 
-I'm working in telecommunications wireless networks for more than 28 years. Now, I'm looking for others challenge/job in TI world, like data analyst, cloud professional, process and/or data miner, network technician/engineer and so on.
+I worked in telecommunications wireless networks for more than 28 years. Now, I'm looking for others challenges/jobs in TO/TI world, like data analyst, developer, cloud professional, process and/or data miner, network technician/engineer and so on. Coming back to the programming world .... yeah!
 
 I'm interested in Wireless communications, IoT Networks, Private Networks, 4G, 5G and all their services in everyone (including OT, IT, AI and/or ML).
 
